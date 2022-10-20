@@ -1,2 +1,2 @@
 # Cinter
-C interpreter for studying
+Study C-interpreter project
