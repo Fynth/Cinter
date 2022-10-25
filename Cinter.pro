@@ -7,10 +7,12 @@ SOURCES += \
         chunk.c \
         debug.c \
         main.c \
-        memory.c
+        memory.c \
+        value.c
 
 HEADERS += \
     chunk.h \
     common.h \
     debug.h \
-    memory.h
+    memory.h \
+    value.h
